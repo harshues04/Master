@@ -1,1 +1,1 @@
-"this is the initial stage of the readme"
+"this is the second stage of the readme"
